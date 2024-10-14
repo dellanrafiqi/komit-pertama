@@ -1,0 +1,9 @@
+body {
+    background-color: azure;
+    color: blue;
+}
+
+input:invalid {
+    border: 1px solid red;
+    }
+
